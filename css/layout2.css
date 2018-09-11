@@ -1,0 +1,44 @@
+.header{
+	border: 10px solid blue;
+	min-height: 50px;
+}
+.banner{
+	border: 2px solid red;
+	min-height: 200px;
+}
+.services{
+	border: 7px solid green;
+	min-height: 160px;
+	overflow: hidden;
+	padding: 2%;
+}
+.service{
+	width: 25%;
+	min-height: 140px;
+	background-color: #282923;
+	float: left;
+	margin-left: 6.4%
+}
+.banner2{
+	border: 3px solid blue;
+	min-height: 150px;
+}
+.footer{
+	border: 10px solid black;
+	min-height: 100px;
+	overflow: hidden;
+}
+.footer1{
+    background-color: red;
+    width: 30%;
+    min-height: 40px;
+    margin: 50px auto;
+    margin-bottom: 1px;
+
+}
+.footer2{
+    background-color: blue;
+    width: 20%;
+    min-height: 30px;
+    margin: 50px auto;
+}

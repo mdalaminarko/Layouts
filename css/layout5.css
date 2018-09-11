@@ -1,0 +1,36 @@
+.header{
+	background-color: #C0C0C0;
+	overflow: hidden;
+	min-height: 50px;
+	margin-bottom: 10px;
+}
+.nevigation{
+	background-color: #C0C0C0;
+	min-height: 40px;
+	margin: 10px;
+}
+.banner{
+	background-color: #C0C0C0;
+	min-height: 200px;
+	margin: 20px;
+}
+.service{
+	overflow: hidden;
+	margin-bottom: 15px;
+}
+.service1{
+	background-color: #C0C0C0;
+	min-height: 400px;
+	width: 30%;
+	float: left;
+}
+.service2{
+	background-color: #C0C0C0;
+	min-height: 400px;
+	width: 67%;
+	float: right;
+}
+.footer{
+	background-color: #C0C0C0;
+	min-height: 50px;
+}

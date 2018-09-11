@@ -1,0 +1,55 @@
+.header{
+	background-color: #C0C0C0;
+	min-height: 80px;
+	margin-bottom: 15px;
+}
+.service{
+	overflow: hidden;
+	margin-bottom: 20px;
+}
+.box{
+	min-height: 90px;
+	background-color: #C0C0C0;
+	width: 20%;
+	float: left;
+	margin-left: 4%;
+}
+.box2{
+	min-height: 90px;
+	background-color: #C0C0C0;
+	width: 20%;
+	float: left;
+	margin-left: 4%;
+	margin-top: 10px;
+}
+.box3{
+	min-height: 90px;
+	background-color: #C0C0C0;
+	width: 20%;
+	float: left;
+	margin-left: 4%;
+	margin-top: 10px;
+}
+.box4{
+	min-height: 90px;
+	background-color: #C0C0C0;
+	width: 20%;
+	float: left;
+	margin-left: 4%;
+	margin-top: 10px;
+}
+.stores{
+	overflow: hidden;
+	margin-bottom: 20px;
+}
+.store{
+	background-color: #C0C0C0;
+	min-height: 200px;
+	width: 30%;
+	float: left;
+	margin-left: 2.5%;
+}
+.footer{
+	background-color: #C0C0C0;
+	min-height: 60px;
+}

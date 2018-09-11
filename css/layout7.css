@@ -1,0 +1,33 @@
+.header{
+	background-color: #C0C0C0;
+	min-height: 80px;
+	margin-bottom: 10px;
+}
+.service{
+	min-height: 600px;
+	overflow: hidden;
+	margin-bottom: 15px;
+}
+.nev{
+	background-color: FFFFFF#;
+	min-height: 600px;
+	float: left;
+	width: 25%;
+}
+.banner{
+	background-color: #C0C0C0;
+	min-height: 195px;
+	float: right;
+	width: 70%;
+	margin-bottom: 10px;
+}
+.area{
+	background-color: #C0C0C0;
+	min-height: 395px;
+	float: right;
+	width: 70%;
+}
+.footer{
+	background-color: #C0C0C0;
+	min-height: 60px;
+}

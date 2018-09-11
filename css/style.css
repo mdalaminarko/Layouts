@@ -1,0 +1,91 @@
+.header{
+	overflow: hidden;
+	background-color: #A6433E;
+}
+.logo{
+	border: 3px solid black;
+	width: 15%;
+	min-height: 80px;
+	float: left;
+}
+.menu{
+	border: 3px solid black;
+	width: 50%;
+	min-height: 80px;
+	float: right;
+}
+.sec1{
+	border: 2px solid blue;
+	min-height: 30px;
+	width: 20%;
+	float: right;
+}
+.banner{
+	background-color: #A4B8B7;
+	overflow: hidden;
+}
+.banner1{
+	border: 5px solid blue;
+	min-height: 100px;
+	width: 40%;
+	margin: 50px auto;
+}
+.services{
+	background-color: #5B514F;
+	padding: 20px 5px;
+}
+.service{
+	border: 5px solid red;
+	margin-bottom: 10px;
+	overflow: hidden;
+}
+.service1{
+	width: 20%;
+	float: left;
+	min-height: 260px;
+	border: 3px solid white;
+	padding: 10px;
+    margin-left: 2.5%;
+}
+.icon{
+	border: 2px solid red;
+	min-height: 50px;
+	overflow: hidden;
+}
+.part1{
+    float: left;
+    width: 25%;
+    background-color: blue;
+    min-height: 50px;
+}
+.part2{
+   float: right;
+   width: 60%;
+   background-color: black;
+   min-height: 50px;
+}
+.content{
+	border: 2px solid green;
+	min-height: 140px;
+}
+.content1{
+    min-height: 70px;
+    background-color: blue;
+}
+.content2{
+    min-height: 70px;
+    background-color: white;
+}
+.contact{
+    border: 5px solid red;
+    min-height: 100px;
+    overflow: hidden;
+    padding: 1%;
+}
+.contact1{
+	min-height: 70px;
+	background-color: #EBEDEF;
+	width: 13%;
+	float: left;
+    margin-left: 5.5%; 
+}

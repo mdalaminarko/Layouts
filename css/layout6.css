@@ -1,0 +1,31 @@
+.header{
+	background-color: #C0C0C0;
+	min-height: 70px;
+	margin-bottom: 15px;
+}
+.banner{
+	background-color: #C0C0C0;
+	min-height: 200px;
+	margin-bottom: 20px;
+}
+.intro{
+	background-color: #C0C0C0;
+	min-height: 150px;
+	margin-bottom: 20px;
+}
+.service{
+	min-height: 400px;
+	overflow: hidden;
+	margin-bottom: 10px;
+}
+.box{
+	min-height: 400px;
+	background-color: #C0C0C0;
+	width: 30%;
+	float: left;
+	margin-left: 2.5%;
+}
+.footer{
+	background-color: #C0C0C0;
+	min-height: 40px;
+}

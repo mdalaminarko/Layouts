@@ -1,0 +1,42 @@
+.header{
+	border: 10px solid blue;
+	min-height: 60px;
+}
+.banner{
+	border: 3px solid red;
+	min-height: 150px;
+}
+.services{
+	border: 7px solid green;
+	min-height: 160px;
+	overflow: hidden;
+	padding: 2%;
+}
+.service{
+	width: 25%;
+	min-height: 140px;
+	background-color: skyblue;
+	float: left;
+	margin-left: 6.4%
+}
+.gallery{
+	border: 7px solid red;
+	min-height: 300px;
+	overflow: hidden;
+}
+.gallery1{
+	background-color: blue;
+	width: 30%;
+	min-height: 300px;
+	float: left;
+}
+.gallery2{
+	background-color: #DC3C00;
+	width: 70%;
+	min-height: 300px;
+	float: right;
+}
+.footer{
+	border: 6px solid black;
+	min-height: 30px;
+}

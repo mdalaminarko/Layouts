@@ -1,0 +1,29 @@
+.header{
+	border: 10px solid blue;
+	min-height: 60px;
+}
+.banner{
+	border: 3px solid red;
+	min-height: 350px;
+}
+.gallery{
+	border: 7px solid red;
+	min-height: 300px;
+	overflow: hidden;
+}
+.gallery1{
+	background-color: blue;
+	width: 30%;
+	min-height: 300px;
+	float: left;
+}
+.gallery2{
+	background-color: #DC3C00;
+	width: 70%;
+	min-height: 300px;
+	float: right;
+}
+.footer{
+	border: 6px solid black;
+	min-height: 90px;
+}
